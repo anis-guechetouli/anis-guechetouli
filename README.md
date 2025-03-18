@@ -1,16 +1,105 @@
-## Hi there 👋
+<img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
-<!--
-**anis-guechetouli/anis-guechetouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD35FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anis+Guechetouli" alt="Typing SVG" style="display:block; margin: 0 auto;" />
+</a>
 
-Here are some ideas to get you started:
+<h3 align="center">Passionate about computers</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/63114141?s=64&v=4" alt="Profile Picture" width="64" height="64">
+  <h3>Student at 42 Paris</h3>
+</div>
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+<div align="center">
+  <h2><strong>Socials and Coding Profiles 💻</strong></h2>
+  <br><br>
+  <a href="https://www.linkedin.com/in/anis-guechetouli-583b79286">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anisguechetouli5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h2><strong>Languages, Tools and Technologies 🚀</strong></h2>
+  <br>
+  <table>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=c,python,java,html,css&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=php&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Database Technologies</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Developer Tools</strong></td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,vim,idea&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Operating System</strong></td>
+      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3><strong>Github Analytics ⚙️</strong></h3>
+  <br>
+  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center">
+          <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
+        </th>
+      </tr>
+      <tr>
+        <th style="padding: 20px; text-align: center;">
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient">
+            <img src="https://github-readme-stats.vercel.app/api?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" />
+          </a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-guechetouli&theme=ambient_gradient" style="width: 24.5em; height: 14em; object-fit: contain;" alt="Top Languages" />
+        </th>
+      </tr>
+    </thead>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://i.imgur.com/x1KbuCq.gif" width="500" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
