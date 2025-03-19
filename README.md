@@ -5,7 +5,9 @@
   [![Spotify](https://img.shields.io/badge/Spotify-Album-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/album/0fSfkmx0tdPqFYkJuNX74a)
 </div>
 
-
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 
 <a href="https://git.io/typing-svg">
