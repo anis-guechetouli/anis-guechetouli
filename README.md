@@ -102,8 +102,3 @@
 
   </table>
 </div>
-
-&nbsp;
-<div align="center">
-  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=199addc2b7344360)
-</div>
