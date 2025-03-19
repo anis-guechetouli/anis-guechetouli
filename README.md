@@ -1,10 +1,5 @@
 <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
-&nbsp;
-<div align="center">
-  [![Spotify](https://img.shields.io/badge/Spotify-Album-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/album/0fSfkmx0tdPqFYkJuNX74a)
-</div>
-
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31tryrxln33eam5k2akkpoy5qwje?si=2df083bacdab4a9f)
 </div>
