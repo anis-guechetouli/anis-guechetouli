@@ -98,9 +98,10 @@
           <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
         </picture>
 
-        &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+ <div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=6783692a31d343f4)
 </div>
+
       </td>
     </tr>
   </table>
