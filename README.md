@@ -1,7 +1,7 @@
 <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/intl-fr/track/2ydagYqcyFfRtQPzKc5E8l?si=6aac839169e24c88))
 </div>
 
 <a href="https://git.io/typing-svg">
