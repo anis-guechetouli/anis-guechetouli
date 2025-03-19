@@ -1,8 +1,10 @@
 <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/intl-fr/track/2ydagYqcyFfRtQPzKc5E8l?si=6aac839169e24c88))
+&nbsp;
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=199addc2b7344360)
 </div>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD35FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anis+Guechetouli" alt="Typing SVG" style="display:block; margin: 0 auto;" />
@@ -110,5 +112,3 @@
 <div align="center">
   [![Spotify](https://spotify-github-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=199addc2b7344360)
 </div>
-
-<img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
