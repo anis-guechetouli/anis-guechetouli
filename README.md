@@ -1,8 +1,10 @@
 <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
+&nbsp;
 <div align="center">
-  <iframe src="https://open.spotify.com/embed/track/4zK082ykqJzJGzC64NXjp1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  [![Spotify](https://img.shields.io/badge/Spotify-Album-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/album/0fSfkmx0tdPqFYkJuNX74a)
 </div>
+
 
 
 
