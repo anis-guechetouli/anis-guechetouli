@@ -1,9 +1,9 @@
 <img src="https://github.com/anis-guechetouli/anis-guechetouli/blob/main/gif.gif?raw=true" align="center" alt="Coding" width="700" height="400" />
 
-&nbsp;
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/intl-fr/track/4zK082ykqJzJGzC64NXjp1?si=199addc2b7344360)
+  <iframe src="https://open.spotify.com/embed/track/4zK082ykqJzJGzC64NXjp1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
+
 
 
 <a href="https://git.io/typing-svg">
